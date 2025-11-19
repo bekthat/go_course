@@ -1,0 +1,18 @@
+# Binaries for programs and plugins
+/bin/
+
+# Test binary, build output
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Vendor directory
+/vendor/
+
+# Go workspace files
+/pkg/
+
+# Editor directories and files
+.vscode/
+*.swp
